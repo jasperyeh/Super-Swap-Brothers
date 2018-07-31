@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{34F37DCD-085B-68A8-DE6C-7DF8C7636D4C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/2D/Scripts/Restarter.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/2D/Scripts/Restarter.cs" Line="247" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
